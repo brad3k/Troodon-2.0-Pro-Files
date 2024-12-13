@@ -13,3 +13,7 @@ I eventually will move the macros under the macro.cfg file.  I have a few there 
 
 Feel free to use this as you see fit.  I only ask to have my attribution brad3k, left in the file somewhere.
 You will need to update two areas to your own printer: the MCU part of the printer.cfg, as it references my serial number to the MCU on my printer. And the input shaper MCU under the s2dw.cfg serial number.  If you don't do that, then you will have several errors pop up right away.
+
+I like KAMP which adds a level of functionality that really makes life easier.  To install, see YouTube or other sources
+
+Enjoy your exploration of the Troodon 2.0 Pro by FormBot
