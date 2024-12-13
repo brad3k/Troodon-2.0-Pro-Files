@@ -5,9 +5,6 @@ First off, download a copy of Visual Studio Code. It is one of the best "free" c
 
 When I purchased the Troodon 2.0 Pro, I noticed a very negative review that was somewhat surprising, given that this printer is focused on those who have experience with 3d Printers.
 The main issue was related to the printer.cfg file.  So... I "fixed" it.  I started with the config file that was sent, tossed almost all of it out, except for the pin locations and then added a whole series of comments throughout the file.
-
 I comment almost EVERYTHING. That way, when time passes and I have no clue what does what, I can figure it out relatively quickly. If you find it handy, then awesome!
-
-Feel free to use this as you see fit.  I only ask to have my attribution initials, BWN, left in the file somewhere.
-
+Feel free to use this as you see fit.  I only ask to have my attribution brad3k, left in the file somewhere.
 You will need to update two areas to your own printer: the MCU part of the printer.cfg, as it references my serial number to the MCU on my printer. And the input shaper MCU under the s2dw.cfg serial number.  If you don't do that, then you will have several errors pop up right away.
