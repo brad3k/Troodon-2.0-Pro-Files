@@ -5,6 +5,10 @@ First off, download a copy of Visual Studio Code. It is one of the best "free" c
 
 When I purchased the Troodon 2.0 Pro, I noticed a very negative review that was somewhat surprising, given that this printer is focused on those who have experience with 3d Printers.
 
+FYI, this printer has a Galileo 2 extruder attached to the Stealthburner toolhead. I use a Slice Engineering Mosquito hotend with the 50w heater element.
+
+Also, I have not yet added a thermistor to the chamber (still working out pins on the customized Formbot Troodon 2 motherboard)
+
 The main issue was related to the printer.cfg file.  So... I "fixed" it.  I started with the config file that was sent, tossed almost all of it out, except for the pin locations and then added a whole series of comments throughout the file.
 
 I comment almost EVERYTHING. That way, when time passes and I have no clue what does what, I can figure it out relatively quickly. If you find it handy, then awesome!
